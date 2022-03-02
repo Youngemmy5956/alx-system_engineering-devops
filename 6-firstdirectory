@@ -1,0 +1,4 @@
+$ ./6-firstdirectory
+$ file /tmp/my_first_directory/
+/tmp/my_first_directory/: directory
+$
